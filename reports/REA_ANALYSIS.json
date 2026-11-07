@@ -1,0 +1,113 @@
+{
+  "engine": "REA_Reverse_Engineer_Anything",
+  "status": "STRUCTURE_RECONSTRUCTED",
+  "analyzed_files": 35,
+  "manifest": {
+    "components.json": {
+      "bytes": 448
+    },
+    "next.config.mjs": {
+      "bytes": 242
+    },
+    "package.json": {
+      "bytes": 2505
+    },
+    "pnpm-lock.yaml": {
+      "bytes": 171791
+    },
+    "postcss.config.mjs": {
+      "bytes": 152
+    },
+    "README.md": {
+      "bytes": 1273
+    },
+    "tsconfig.json": {
+      "bytes": 622
+    },
+    "app\\globals.css": {
+      "bytes": 4322
+    },
+    "app\\layout.tsx": {
+      "bytes": 894
+    },
+    "app\\page.tsx": {
+      "bytes": 539
+    },
+    "components\\theme-provider.tsx": {
+      "bytes": 303
+    },
+    "lib\\utils.ts": {
+      "bytes": 172
+    },
+    "public\\diverse-person-avatars.png": {
+      "bytes": 401364
+    },
+    "public\\diverse-user-avatar.png": {
+      "bytes": 470152
+    },
+    "public\\placeholder-logo.png": {
+      "bytes": 568
+    },
+    "public\\placeholder-logo.svg": {
+      "bytes": 3208
+    },
+    "public\\placeholder-user.jpg": {
+      "bytes": 1635
+    },
+    "public\\placeholder.jpg": {
+      "bytes": 1064
+    },
+    "public\\placeholder.svg": {
+      "bytes": 3253
+    },
+    "scripts\\rea_inspector.py": {
+      "bytes": 1485
+    },
+    "scripts\\rsi_engine.py": {
+      "bytes": 2039
+    },
+    "styles\\globals.css": {
+      "bytes": 4462
+    },
+    "tests\\reality_check_harness.py": {
+      "bytes": 1250
+    },
+    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
+      "bytes": 531
+    },
+    "app\\qain\\page.tsx": {
+      "bytes": 18342
+    },
+    "components\\qain\\allocation-note.tsx": {
+      "bytes": 735
+    },
+    "components\\qain\\faq.tsx": {
+      "bytes": 2156
+    },
+    "components\\qain\\features.tsx": {
+      "bytes": 1983
+    },
+    "components\\qain\\footer.tsx": {
+      "bytes": 883
+    },
+    "components\\qain\\header.tsx": {
+      "bytes": 1463
+    },
+    "components\\qain\\hero.tsx": {
+      "bytes": 3405
+    },
+    "components\\qain\\how-it-works.tsx": {
+      "bytes": 1433
+    },
+    "components\\qain\\testimonials.tsx": {
+      "bytes": 2037
+    },
+    "components\\ui\\button.tsx": {
+      "bytes": 2182
+    },
+    "components\\ui\\card.tsx": {
+      "bytes": 2081
+    }
+  },
+  "timestamp": 1794019386
+}
